@@ -16,14 +16,14 @@ Roblox Development
 ![Paradox Genetics](https://tr.rbxcdn.com/180DAY-64def2f75a64483b9121604d547ed20f/150/150/Image/Webp/noFilter) 
 ## Paradox Genetics
 Weapon Modeller<br>
-2023-2024
+2023-2023
 
 <br>
 
 ![Phoenix International Corporation](https://tr.rbxcdn.com/180DAY-c3c305133f45f1885a5fcd7b302338aa/150/150/Image/Webp/noFilter)
 ## Phoenix International Corporation
 Weapon Modeller<br>
-2024-Present
+2023-Present
 </details>
 
 <details>
