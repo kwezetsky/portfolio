@@ -30,14 +30,14 @@ Weapon Modeller<br>
 <summary><h2>Modelling Work</h1></summary>
 <br>
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/96590e80-8e0c-402b-bfa6-789829896eae" width="450" />
-  <img src="https://github.com/user-attachments/assets/6a2160a1-c5cc-4af7-9360-5a6394d5bb07" width="450" />
+  <img src="https://github.com/user-attachments/assets/96590e80-8e0c-402b-bfa6-789829896eae" width="400" />
+  <img src="https://github.com/user-attachments/assets/6a2160a1-c5cc-4af7-9360-5a6394d5bb07" width="400" />
   <br>
-  <img src="https://github.com/user-attachments/assets/3217ccb2-49fe-49ce-b28c-8e30a138afb9" width="450" />
-  <img src="https://github.com/user-attachments/assets/267f042e-6d12-49d9-aed1-3519a9094f1a" width="450" />
+  <img src="https://github.com/user-attachments/assets/3217ccb2-49fe-49ce-b28c-8e30a138afb9" width="400" />
+  <img src="https://github.com/user-attachments/assets/267f042e-6d12-49d9-aed1-3519a9094f1a" width="400" />
   <br>
-  <img src="https://github.com/user-attachments/assets/e308df95-295b-4f19-a1f4-f0f817539e79" width="450" />
-  <img src="https://github.com/user-attachments/assets/453b37e8-4cb5-4c0d-a231-04ab092fd711" width="450" />
+  <img src="https://github.com/user-attachments/assets/e308df95-295b-4f19-a1f4-f0f817539e79" width="400" />
+  <img src="https://github.com/user-attachments/assets/453b37e8-4cb5-4c0d-a231-04ab092fd711" width="400" />
 </p>
 </details>
 
