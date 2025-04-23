@@ -6,6 +6,11 @@ Roblox Development
 <b>Secondary specialty</b>: Scripting
 
 <b>Currently learning</b>: Rigging
+<br>
+
+<sub>Roblox profile: https://www.roblox.com/users/80940401/profile</sub>
+
+<sub>Discord user: kwezetsky 511182430330290177</sub>
 
 <br>
 
